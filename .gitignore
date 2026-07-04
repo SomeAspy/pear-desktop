@@ -1,8 +1,8 @@
 node_modules
-/dist
 /pack
 .vscode/settings.json
 .idea
+out
 
 .pnp.*
 .pnpm-store
